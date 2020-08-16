@@ -8,6 +8,6 @@ public static void main(String[] args)
 		System.out.println(x);
 		int y=5;
 		x=5;
-		System.out.println(x+y);
+		System.out.println(x+y); // what is this?????!
 	}
 	}
